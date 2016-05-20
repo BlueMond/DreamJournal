@@ -1,0 +1,8 @@
+name: DreamJournal
+version: 0.0
+main: com.bluemond.dreamjournal.DreamJournal
+author: BlueMond
+commands:
+  jump:
+    description: do the jump
+    usage: /jump
